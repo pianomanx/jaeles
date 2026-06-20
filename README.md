@@ -7,6 +7,11 @@
   </p>
 </p>
 
+> [!IMPORTANT]
+> **This repository has been archived and is no longer maintained.**
+>
+> Check out **[github.com/vigolium/vigolium](https://github.com/vigolium/vigolium)** — a brand new scanner that I made that's better in every way.
+
 **Jaeles** is a powerful, flexible and easily extensible framework written in Go for building your own Web Application
 Scanner.
 
